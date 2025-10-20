@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/baohuyvanba -->
 <h1 align="center">Hi 👋, I'm Van Ba Bao Huy</h1>
-<h3 align="center">AI Engineer & Android Developer — building practical AI that ships</h3>
+<h3 align="center">AI Engineer & Mobile Developer — building practical AI that ships</h3>
 
 <p align="center">
   <a href="mailto:baohuyvanba@gmail.com"><img src="https://img.shields.io/badge/Email-baohuyvanba%40gmail.com-informational?logo=gmail" /></a>

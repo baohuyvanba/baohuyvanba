@@ -40,7 +40,7 @@
 ---
 
 ### 🚀 Featured projects
-- **iOS On-device AI integration** application
+- **iOS On-device AI integration Application**
   <sub>Swift · SwiftUI · FoundationModels Framework (Apple Intelligent)</sub>
   ▸ Implement iOS Application using Swift and integrate AI features with FoundationModels Framework (On-device AI).
 

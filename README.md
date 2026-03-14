@@ -16,22 +16,23 @@
 
 ### 👩‍💻 About me
 - 🎓 B.Sc. in Information Technology (AI) — VNU-HCM University of Science (GPA 3.77/4.0).
-- 🧠 Focused on **Multimodal LLMs** (Vision + Language) & **Android apps with on-device/connected AI**.
-- 🌱 Learning: **Python**, **Kotlin/Compose**, **PyTorch**, **Docker for reproducibility**.
+- 🧠 Focused on **Multimodal LLMs** (Vision + Language) & **Swift & Android apps with on-device/connected AI**.
+- 🌱 Learning: **Python**, **Swift**, **Kotlin/Compose**, **PyTorch**, **Docker for reproducibility**.
 <!-- - 🔭 Currently working on **Vision-Zephyr** — a VCR-oriented MLLM built on Zephyr + CLIP; and **xWalletWise**, an Android finance app with AI helpers.
 - 💬 I enjoy shipping end-to-end: from research & modeling → evaluation → Android UX → deployment.  -->
 
 ---
 
 ### 🧩 Tech stack
-**Languages**: Python • Kotlin  
+**Languages**: Python • Swift • Kotlin  
 **ML/DL**: PyTorch • scikit-learn • NumPy • Pandas • Matplotlib/Seaborn • Pytorch
 **Practices**: data preprocessing & feature engineering • training & evaluation • model implementation • prompt/LLM integration  
-**Tools**: Git • Docker • Jupyter • Pycharm • Android Studio • Gradle
+**Tools**: Git • Docker • Jupyter • XCode • Pycharm • Android Studio • Gradle
 
 <p>
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img height="28" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+  <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 </p>
@@ -39,6 +40,10 @@
 ---
 
 ### 🚀 Featured projects
+- **iOS On-device AI integration** application
+  <sub>Swift · SwiftUI · FoundationModels Framework (Apple Intelligent)</sub>
+  ▸ Implement iOS Application using Swift and integrate AI features with FoundationModels Framework (On-device AI).
+
 - **Vision-Zephyr** — Multimodal LLM for **Visual Commonsense Reasoning**  
   <sub>Python · PyTorch · CLIP · Zephyr LLM</sub>  
   ▸ Implement & evaluate MLLM pipeline; multi-stage training (projector align → LoRA fine-tune); custom gating/fusion over CLIP layers.  
